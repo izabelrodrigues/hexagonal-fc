@@ -8,5 +8,5 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.12
 	github.com/satori/go.uuid v1.2.0
 	github.com/spf13/cobra v1.4.0 // indirect
-	github.com/stretchr/testify v1.7.1 // indirect
+	github.com/stretchr/testify v1.7.1
 )
